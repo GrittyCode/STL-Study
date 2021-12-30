@@ -2,7 +2,7 @@
 
 using namespace std;
 
-struct FuncObject
+struct FuncObject 
 {
     void operator() (int arg) const
     {
@@ -17,7 +17,6 @@ struct FuncObject
 
 int main(void)
 {
-    
 
     FuncObject print;
 
