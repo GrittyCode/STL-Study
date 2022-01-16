@@ -181,6 +181,5 @@ int main(void)
         cout << v4[i] << " ";
     }
     cout << "\n";
-
     return 0;
 }
